@@ -1,0 +1,10 @@
+/*
+
+  LOCAL Server needs to be installed, otherwise Cross-Origin Resource Sharing (CORS) error occurs, 
+  , while trying to import the local JSON file (doctors.json) via AJAX Request.
+  
+  Installing XAMPP, though, seems to resolve the above issue.
+  
+  Then, the app runns at: 127.0.0.1/.../doctorMap.html
+
+*/
